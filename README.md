@@ -1,4 +1,3 @@
-````markdown
 # 💰 Carteira Digital API
 
 API para gerenciar carteiras digitais e transações financeiras.
@@ -25,7 +24,6 @@ Execute o comando para levantar o banco de dados:
 ```bash
 docker-compose up
 ```
-````
 
 ### 2. Configuração do Projeto
 
