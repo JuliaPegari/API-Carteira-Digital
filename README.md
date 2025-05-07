@@ -1,5 +1,3 @@
-Claro! Aqui está o conteúdo do seu README completamente formatado para o GitHub, com cabeçalhos, blocos de código e listas legíveis:
-
 ````markdown
 # 💰 Carteira Digital API
 
